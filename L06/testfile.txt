@@ -1,0 +1,1 @@
+This func,,,,tion must read all words from the input-file and append them to vect. It should ignore whitespace and interpunction. Repeated whitespace and interpunctionmust not result in        ,,,,,,,      ,,,   emptywords. The function must never produce empty words. 
